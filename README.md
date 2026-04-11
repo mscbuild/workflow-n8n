@@ -242,7 +242,7 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-<p>Huginn was originally created by  [![Zie619](https://github.com/Zie619/n8n-workflows)]. Since then, many people's dedicated contributions have made it what it is today</p>
+Huginn was originally created by  [Zie619](https://github.com/Zie619/n8n-workflows).Since then, many people's dedicated contributions have made it what it is today 
 ---
  
 ## Support
@@ -255,12 +255,12 @@ If you find this project helpful, please consider:
 
 </div>
 
-<div align="center">
+ 
 [![CI/CD Pipeline](https://github.com/mscbuild/workflow-n8n/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/ci-cd.yml)
 [![Deploy to GitHub Pages](https://github.com/mscbuild/workflow-n8n/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/pages-deploy.yml)
 [![Docker Build and Test](https://github.com/mscbuild/workflow-n8n/actions/workflows/docker.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/docker.yml)
 
- </div>
+ 
 ---
 <!--
 keywords: n8n workflows, n8n automation, n8n examples, n8n templates, no-code automation, telegram bot workflows, openai n8n, webhook automation
