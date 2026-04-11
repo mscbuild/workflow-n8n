@@ -171,6 +171,8 @@ workflow-n8n/
 ├── docs/               # GitHub Pages site
 ├── src/                # Python source code
 ├── scripts/            # Utility scripts
+├── helm/                # Helm chart for K8s
+├── k8s/                 # Raw Kubernetes manifests
 ├── api_server.py       # FastAPI application
 ├── run.py              # Server launcher
 ├── workflow_db.py      # Database manager
