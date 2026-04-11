@@ -265,16 +265,23 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 ## 📊 WHAT'S INSIDE:
 
 ✅ 2,053 total workflows with lightning-fast search
+
 ✅ 365 unique integrations (Gmail, Telegram, AI, etc.)
+
 ✅ 29,445 total nodes across all workflows
+
 ✅ Professional documentation system that actually works
 
 ## Workflow Types:
 
 🤖 AI-powered email assistants & chatbots
+
 💼 Business process automation (CRM, invoicing, onboarding)
+
 📊 Data processing & analytics workflows
+
 💬 Communication automation (Telegram, Slack, WhatsApp)
+
 🛒 E-commerce & marketing automation
 
 ## License
