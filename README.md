@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Gratitude
 
-Huginn was originally created by[Zie619](https://github.com/Zie619/n8n-workflows).Since then, many people's dedicated contributions have made it what it is today. 
+Huginn was originally created by [Zie619](https://github.com/Zie619/n8n-workflows). Since then, many people's dedicated contributions have made it what it is today. 
  
  
 ## Support
