@@ -7,10 +7,15 @@
 
 <div align="center">
 
-![n8n Workflows](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n)
-![Workflows](https://img.shields.io/badge/Workflows-4343+-blue?style=for-the-badge)
-![Integrations](https://img.shields.io/badge/Integrations-365+-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/workflow-n8n) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/workflow-n8n)
+![](https://img.shields.io/badge/code%20style-python-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+
  
 
 ### The Ultimate Collection of n8n Automation Workflows
