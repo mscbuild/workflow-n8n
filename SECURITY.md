@@ -116,6 +116,7 @@ add_header Strict-Transport-Security "max-age=31536000; includeSubDomains";
 
 Security issues reported by:
 - Path Traversal: Community contributor via Issue #48
+- Arbitrary file write via path traversal vulnerability #1
 
 ## Contact
 
