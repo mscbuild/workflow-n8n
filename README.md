@@ -237,6 +237,27 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 - Test safely - Verify in development environment first
 - Check permissions - Ensure proper access rights for integrations
 
+  ---
+
+## Quick Start: How to Use These Templates
+
+1.[Sign up for n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) (free & open-source)
+2.Download any `.json` template file from this repository
+3.In n8n, go to **Workflows → Import from File** and select the JSON
+4.Configure your credentials for each connected service
+5.Activate the workflow and start automating!
+
+## Key Concepts for Beginners
+
+- **Nodes:** The building blocks of a workflow. Each node performs a specific task (e.g., fetching data, connecting to an app).
+- **Trigger:** The event that starts the workflow (e.g., a specific time, a new form submission, or a HTTP request).
+- **Action:** The task executed after a trigger occurs (e.g., creating a row in Google Sheets, sending a message to Slack).
+- **Workflow:** The connected series of triggers and actions.
+
+<blockquote>
+<p dir="auto">🚀 <strong>Automate any workflow.</strong> <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe" rel="nofollow">Create your free n8n account and start building →</a></p>
+</blockquote>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
