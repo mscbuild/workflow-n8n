@@ -241,7 +241,8 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Huginn was originally created by  [Zie619](https://github.com/Zie619/n8n-workflows). Since then, many people's dedicated contributions have made it what it is today
+
+<p>Huginn was originally created by  [![Zie619](https://github.com/Zie619/n8n-workflows)]. Since then, many people's dedicated contributions have made it what it is today</p>
 ---
  
 ## Support
