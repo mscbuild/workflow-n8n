@@ -110,6 +110,7 @@ add_header Strict-Transport-Security "max-age=31536000; includeSubDomains";
 | Oct 2025 | Path Traversal (#48) | Fixed | 2.0.1 |
 | Nov 2025 | CORS Misconfiguration | Fixed | 2.0.1 |
 | Nov 2025 | Unauthenticated Reindex | Fixed | 2.0.1 |
+| Apr 2026 | Vulnerability #1 | Fixed | 2.0.1 |
 
 ## Credits
 
