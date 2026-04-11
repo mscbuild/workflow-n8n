@@ -1,5 +1,5 @@
-[repo]: https://github.com/mscbuild/workflows-n8n/
-[demo]: https://mscbuild.github.io/workflows-n8n/
+[repo]: https://github.com/mscbuild/workflow-n8n/
+[demo]: https://mscbuild.github.io/workflow-n8n/
 
 <div align="center">
  
@@ -23,7 +23,7 @@
 
 ### The Ultimate Collection of n8n Automation Workflows
 
-**[Browse Online](https://mscbuild.github.io/workflows-n8n/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
+**[Browse Online](https://mscbuild.github.io/workflow-n8n/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
 
 <img width="3694" height="2078" alt="workfloe" src="https://github.com/user-attachments/assets/84b922e4-17c3-4c81-ba81-993cbaa46b64" />
 
@@ -38,7 +38,7 @@
 ### Latest Updates (April 2026)
 - **Enhanced Security**: Full security audit completed, all CVEs resolved
 - **Docker Support**: Multi-platform builds for linux/amd64 and linux/arm64
-- **GitHub Pages**: Live searchable interface at [workflows-m8n](https://mscbuild.github.io/workflows-n8n/)
+- **GitHub Pages**: Live searchable interface at [workflows-m8n](https://mscbuild.github.io/workflow-n8n/)
 - **Performance**: 100x faster search with SQLite FTS5 integration
 - **Modern UI**: Completely redesigned interface with dark/light mode
 
@@ -47,7 +47,7 @@
 ## Quick Access
 
 ### Use Online (No Installation)
-Visit **[workflows-n8n](https://mscbuild.github.io/workflows-n8n/)** for instant access to:
+Visit **[workflows-n8n](https://mscbuild.github.io/workflow-n8n/)** for instant access to:
 - **Smart Search** — Find workflows instantly
 - **15+ Categories** — Browse by use case
 - **Mobile Ready** — Works on any device
@@ -94,7 +94,7 @@ Visit **[workflows-n8n](https://mscbuild.github.io/workflows-n8n/)** for instant
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/mscbuild/workflows-n8n.git
+git clone https://github.com/mscbuild/workflow-n8n.git
 cd workflows-n8n
 
 # Install dependencies
@@ -110,11 +110,11 @@ python run.py
 ### Docker Installation
 ```bash
 # Using Docker Hub
-docker run -p 8000:8000 mscbuild/workflows-n8n:latest
+docker run -p 8000:8000 mscbuild/workflow-n8n:latest
 
 # Or build locally
 docker build -t n8n-workflows .
-docker run -p 8000:8000 workflows-n8n
+docker run -p 8000:8000 workflow-n8n
 ```
 
 ---
@@ -165,7 +165,7 @@ graph LR
 ## Repository Structure
 
 ```
-n8n-workflows/
+workflow-n8n/
 ├── workflows/           # 4,343 workflow JSON files
 │   └── [category]/     # Organized by integration
 ├── docs/               # GitHub Pages site
@@ -185,8 +185,8 @@ n8n-workflows/
 We love contributions! Here's how you can help:
 
 ### Ways to Contribute
-- **Report bugs** via [Issues](https://github.com/mscbuild/workflows-n8n/issues)
-- **Suggest features** in [Discussions](https://github.com/mscbuild/workflows-n8n/discussions)
+- **Report bugs** via [Issues](https://github.com/mscbuild/workflow-n8n/issues)
+- **Suggest features** in [Discussions](https://github.com/mscbuild/workflow-n8n/discussions)
 - **Improve documentation**
 - **Submit workflow fixes**
 - **Star the repository**
@@ -194,7 +194,7 @@ We love contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/workflows-n8n.git
+git clone https://github.com/YOUR_USERNAME/workflow-n8n.git
 
 # Create branch
 git checkout -b feature/amazing-feature
@@ -252,7 +252,7 @@ If you find this project helpful, please consider:
 
 <div align="center">
 
-[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mscbuild/n8n-workflows)
+[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mscbuild/workflow-n8n)
 
 </div>
 
