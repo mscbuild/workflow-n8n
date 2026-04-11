@@ -15,7 +15,8 @@
 
 **[Browse Online](https://mscbuild.github.io/n8n-workflows/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
 
-<img width="3694" height="2078" alt="image" src="https://github.com/user-attachments/assets/ea577546-fc76-431d-886f-22b114ceea70" />
+<img width="3694" height="2078" alt="workfloe" src="https://github.com/user-attachments/assets/84b922e4-17c3-4c81-ba81-993cbaa46b64" />
+
 
 
 </div>
