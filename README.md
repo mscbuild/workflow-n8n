@@ -1,7 +1,7 @@
 [repo]: https://github.com/mscbuild/n8n-workflows/
 [demo]: https://mscbuild.github.io/n8n-workflows/
 
-# Best Workflow Automation Templates. Thousands of templates to get you started
+# Best Workflow Automation Templates.
 
  
 
