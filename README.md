@@ -242,9 +242,13 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 ## Quick Start: How to Use These Templates
 
 1.[Sign up for n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) (free & open-source)
+
 2.Download any `.json` template file from this repository
+
 3.In n8n, go to **Workflows → Import from File** and select the JSON
+
 4.Configure your credentials for each connected service
+
 5.Activate the workflow and start automating!
 
 ## Key Concepts for Beginners
