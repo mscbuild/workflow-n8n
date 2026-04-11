@@ -1,8 +1,10 @@
-[repo]: https://github.com/mscbuild/n8n-workflows/
-[demo]: https://mscbuild.github.io/n8n-workflows/
+[repo]: https://github.com/mscbuild/workflows-n8n/
+[demo]: https://mscbuild.github.io/workflows-n8n/
 
+<div align="center">
 # Best Workflow Automation Templates.
-
+ 
+</div>
  
 
 <div align="center">
@@ -20,7 +22,7 @@
 
 ### The Ultimate Collection of n8n Automation Workflows
 
-**[Browse Online](https://mscbuild.github.io/n8n-workflows/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
+**[Browse Online](https://mscbuild.github.io/workflows-n8n/)** · **[Documentation](#documentation)** · **[Contributing](#contributing)** · **[License](#license)**
 
 <img width="3694" height="2078" alt="workfloe" src="https://github.com/user-attachments/assets/84b922e4-17c3-4c81-ba81-993cbaa46b64" />
 
@@ -35,7 +37,7 @@
 ### Latest Updates (April 2026)
 - **Enhanced Security**: Full security audit completed, all CVEs resolved
 - **Docker Support**: Multi-platform builds for linux/amd64 and linux/arm64
-- **GitHub Pages**: Live searchable interface at [n8n-workflows](https://mscbuild.github.io/n8n-workflows/)
+- **GitHub Pages**: Live searchable interface at [workflows-m8n](https://mscbuild.github.io/workflows-n8n/)
 - **Performance**: 100x faster search with SQLite FTS5 integration
 - **Modern UI**: Completely redesigned interface with dark/light mode
 
@@ -44,7 +46,7 @@
 ## Quick Access
 
 ### Use Online (No Installation)
-Visit **[n8n-workflows](https://mscbuild.github.io/n8n-workflows/)** for instant access to:
+Visit **[workflows-n8n](https://mscbuild.github.io/workflows-n8n/)** for instant access to:
 - **Smart Search** — Find workflows instantly
 - **15+ Categories** — Browse by use case
 - **Mobile Ready** — Works on any device
@@ -91,8 +93,8 @@ Visit **[n8n-workflows](https://mscbuild.github.io/n8n-workflows/)** for instant
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/mscbuild/n8n-workflows.git
-cd n8n-workflows
+git clone https://github.com/mscbuild/workflows-n8n.git
+cd workflows-n8n
 
 # Install dependencies
 pip install -r requirements.txt
@@ -107,11 +109,11 @@ python run.py
 ### Docker Installation
 ```bash
 # Using Docker Hub
-docker run -p 8000:8000 mscbuild/n8n-workflows:latest
+docker run -p 8000:8000 mscbuild/workflows-n8n:latest
 
 # Or build locally
 docker build -t n8n-workflows .
-docker run -p 8000:8000 n8n-workflows
+docker run -p 8000:8000 workflows-n8n
 ```
 
 ---
@@ -175,22 +177,15 @@ n8n-workflows/
 ```
 
 ---
-## Workflows
-
-| Name                                                                 | Description                       | Category   |
-| -------------------------------------------------------------------- | --------------------------------- | ---------- |
-| [Telegram Auto Reply](./workflows/telegram/telegram-auto-reply.json) | Auto-replies to Telegram messages | Telegram   |
-| [OpenAI Email Generator](./workflows/ai/openai-email-generator.json) | Generates emails with AI          | AI         |
-| [Webhook to Sheets](./workflows/automation/webhook-to-sheets.json)   | Sends data to Google Sheets       | Automation |
-
+ 
 
 ## Contributing
 
 We love contributions! Here's how you can help:
 
 ### Ways to Contribute
-- **Report bugs** via [Issues](https://github.com/Zie619/n8n-workflows/issues)
-- **Suggest features** in [Discussions](https://github.com/Zie619/n8n-workflows/discussions)
+- **Report bugs** via [Issues](https://github.com/mscbuild/workflows-n8n/issues)
+- **Suggest features** in [Discussions](https://github.com/mscbuild/workflows-n8n/discussions)
 - **Improve documentation**
 - **Submit workflow fixes**
 - **Star the repository**
@@ -198,7 +193,7 @@ We love contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/n8n-workflows.git
+git clone https://github.com/YOUR_USERNAME/workflows-n8n.git
 
 # Create branch
 git checkout -b feature/amazing-feature
@@ -245,8 +240,9 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+Huginn was originally created by  [Zie619](https://github.com/Zie619/n8n-workflows). Since then, many people's dedicated contributions have made it what it is today
 ---
-
+ 
 ## Support
 
 If you find this project helpful, please consider:
@@ -257,6 +253,12 @@ If you find this project helpful, please consider:
 
 </div>
 
+<div align="center">
+[![CI/CD Pipeline](https://github.com/mscbuild/workflow-n8n/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/ci-cd.yml)
+[![Deploy to GitHub Pages](https://github.com/mscbuild/workflow-n8n/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/pages-deploy.yml)
+[![Docker Build and Test](https://github.com/mscbuild/workflow-n8n/actions/workflows/docker.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/docker.yml)
+
+ </div>
 ---
 <!--
 keywords: n8n workflows, n8n automation, n8n examples, n8n templates, no-code automation, telegram bot workflows, openai n8n, webhook automation
