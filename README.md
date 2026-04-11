@@ -262,6 +262,21 @@ Please report security vulnerabilities to the maintainers via [Security Advisory
 <p dir="auto">🚀 <strong>Automate any workflow.</strong> <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe" rel="nofollow">Create your free n8n account and start building →</a></p>
 </blockquote>
 
+## 📊 WHAT'S INSIDE:
+
+✅ 2,053 total workflows with lightning-fast search
+✅ 365 unique integrations (Gmail, Telegram, AI, etc.)
+✅ 29,445 total nodes across all workflows
+✅ Professional documentation system that actually works
+
+## Workflow Types:
+
+🤖 AI-powered email assistants & chatbots
+💼 Business process automation (CRM, invoicing, onboarding)
+📊 Data processing & analytics workflows
+💬 Communication automation (Telegram, Slack, WhatsApp)
+🛒 E-commerce & marketing automation
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
