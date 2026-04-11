@@ -38,7 +38,7 @@
 ### Latest Updates (April 2026)
 - **Enhanced Security**: Full security audit completed, all CVEs resolved
 - **Docker Support**: Multi-platform builds for linux/amd64 and linux/arm64
-- **GitHub Pages**: Live searchable interface at [workflows-m8n](https://mscbuild.github.io/workflow-n8n/)
+- **GitHub Pages**: Live searchable interface at [workflows-n8n](https://mscbuild.github.io/workflow-n8n/)
 - **Performance**: 100x faster search with SQLite FTS5 integration
 - **Modern UI**: Completely redesigned interface with dark/light mode
 
@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Gratitude
 
-Huginn was originally created by [Zie619](https://github.com/Zie619/n8n-workflows). Since then, many people's dedicated contributions have made it what it is today. 
+Project was originally created by [Zie619](https://github.com/Zie619/n8n-workflows). Since then, many people's dedicated contributions have made it what it is today. 
  
  
 ## Support
