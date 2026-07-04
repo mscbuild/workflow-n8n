@@ -285,9 +285,9 @@ If you find this project helpful, please consider:
 </div>
 
  ---
-[![CI/CD Pipeline](https://github.com/mscbuild/workflow-n8n/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/ci-cd.yml)
+ 
 [![Deploy to GitHub Pages](https://github.com/mscbuild/workflow-n8n/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/pages-deploy.yml)
-[![Docker Build and Test](https://github.com/mscbuild/workflow-n8n/actions/workflows/docker.yml/badge.svg)](https://github.com/mscbuild/workflow-n8n/actions/workflows/docker.yml)
+ 
 
  
  
