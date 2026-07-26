@@ -35,7 +35,7 @@
 
 ## What's New
 
-### Latest Updates (April 2026)
+### Latest Updates (July 2026)
 - **Enhanced Security**: Full security audit completed, all CVEs resolved
 - **Docker Support**: Multi-platform builds for linux/amd64 and linux/arm64
 - **GitHub Pages**: Live searchable interface at [workflows-n8n](https://mscbuild.github.io/workflow-n8n/)
